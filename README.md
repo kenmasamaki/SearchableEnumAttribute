@@ -15,28 +15,30 @@
 
 ## 使用例
 
+```csharp
 public enum ActionType
 {
-	ATACK_01,
-	ATACK_02,
-	ATACK_03,
-	ATACK_04,
-	SPECIAL_01,
-	SPECIAL_02,
-	SPECIAL_03,
-	SPECIAL_04,
-	DEFENSE_01,
-	DEFENSE_02,
-	DEFENSE_03,
-	DEFENSE_04,
-	HEAL_01,
-	HEAL_02,
-	HEAL_03,
-	HEAL_04,
+    ATACK_01,
+    ATACK_02,
+    ATACK_03,
+    ATACK_04,
+    SPECIAL_01,
+    SPECIAL_02,
+    SPECIAL_03,
+    SPECIAL_04,
+    DEFENSE_01,
+    DEFENSE_02,
+    DEFENSE_03,
+    DEFENSE_04,
+    HEAL_01,
+    HEAL_02,
+    HEAL_03,
+    HEAL_04,
 }
 
 [SearchableEnum]
 public ActionType actionType;
+```
 
 
 上記のように、`[SearchableEnum]` 属性を Enum フィールドに付与するだけで、インスペクター上で Enum の選択肢が検索可能になります。
