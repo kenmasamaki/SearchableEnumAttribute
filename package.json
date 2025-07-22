@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "com.kenmasamaki.searchableenumattribute",
   "displayName": "SearchableEnumAttribute",
   "version": "1.0.0",
@@ -7,10 +7,10 @@
     "name": "Tsujiken"
   },
   "samples": [
-    {
-      "displayName": "Sample",
-      "description": "SearchableEnumAttribute",
-      "path": "Samples~/Sample"
-    }
+		{
+			"displayName": "Sample",
+			"description": "SearchableEnumAttribute\u306e\u30b5\u30f3\u30d7\u30eb\uff08\u30b9\u30af\u30ea\u30d7\u30c8\u30fb\u30d7\u30ec\u30cf\u30d6\u30fb\u30b7\u30fc\u30f3\uff09\u3067\u3059\u3002",
+			"path": "Samples~/Sample"
+		}
   ]
 }
