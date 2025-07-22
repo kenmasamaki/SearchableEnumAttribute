@@ -2,6 +2,8 @@
 
 `SearchableEnumAttribute` は、Unity のインスペクター上で Enum 型の選択肢を検索可能にするカスタム属性です。大量の Enum 定数がある場合でも、検索機能により素早く目的の値を選択できます。
 
+![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/124390814/468939325-ee695e97-b204-4fac-ac8b-03125cd141b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250722T032415Z&X-Amz-Expires=300&X-Amz-Signature=6e2bb94e33a6ab172a775b6d9edcaa41d1c2c8fafc23e166bc7dad26ed8eb674&X-Amz-SignedHeaders=host)
+
 ## 特徴
 
 - Unity インスペクターで Enum フィールドを検索可能に
