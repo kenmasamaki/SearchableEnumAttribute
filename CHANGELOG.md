@@ -5,6 +5,11 @@
 フォーマットは [Keep a Changelog](https://keepachangelog.com/ja/1.0.0/) に従います。  
 バージョン管理は [Semantic Versioning](https://semver.org/lang/ja/) に基づいています。
 
+## [1.0.1] - 2026-01-30
+### 修正
+- README.md 内の画像リンクを修正して正しいスクリーンショットが表示されるようにしました。
+- 不要なアセンブリ定義ファイル（kenmasamaki.SearchableEnumAttribute.Scripts.asmdef）を削除しました。
+
 ## [1.0.0] - 2025-07-22
 ### 追加
 - SearchableEnumAttribute の初回リリース
